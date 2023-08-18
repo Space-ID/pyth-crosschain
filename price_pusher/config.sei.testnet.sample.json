@@ -1,0 +1,8 @@
+{
+  "rpc": "https://sei-testnet-rpc.polkachu.com/",
+  "pyth-contract-address": "sei1w2rxq6eckak47s25crxlhmq96fzjwdtjgdwavn56ggc0qvxvw7rqczxyfy",
+  "price-service-endpoint": "https://xc-mainnet.pyth.network",
+  "mnemonic-file": "./mnemonic",
+  "price-config-file": "./price-config.testnet.sample.yaml",
+  "network": "testnet"
+}
